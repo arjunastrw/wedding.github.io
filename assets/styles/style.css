@@ -10,7 +10,7 @@ body {
     min-height: 2000px;
 }
 
-.hero::before {
+/* .hero::before {
     content: '';
     position: absolute;
     top: 0;
@@ -23,12 +23,12 @@ body {
     background-position: center;
     z-index: -1;
     filter: blur(2px);
-}
+} */
 
 .hero {
     position: relative;
     min-height: 100vh;
-    /* background-color: var(--bg); */
+    background-color: var(--bg);
 }
 
 .hero h1, .hero h4, .hero p {
