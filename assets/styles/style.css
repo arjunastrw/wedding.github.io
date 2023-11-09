@@ -1,6 +1,6 @@
 :root {
     --gold: #33302a;
-    --bg: #17181b;
+    --bg: #1b1e23;
     --shadow: 0 2px 2px rgb(0 0 0 / 0.5);
 }
 
@@ -10,7 +10,7 @@ body {
     min-height: 4000px;
 }
 
-.hero::before {
+/* .hero::before {
     content: '';
     position: absolute;
     top: 0;
@@ -24,11 +24,11 @@ body {
     z-index: -1;
     filter: grayscale(100px);
 }
-
+ */
 .hero {
     position: relative;
     min-height: 100vh;
-    /* background-color: var(--bg); */
+    background-color: var(--bg);
 }
 
 .hero h1, .hero h4, .hero p {
