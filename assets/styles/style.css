@@ -64,21 +64,21 @@ body {
 /* laptop */
 @media (max-width: 992px) {
     html {
-        font-size: 75%;
+        font-size: 80%;
     }
     .simply-countdown > .simply-section {
-        padding: 70px;
+        padding: 50px;
     }
 }
 
 /* tablet */
 @media (max-width: 768px) {
     html {
-        font-size: 65%;
+        font-size: 75%;
     }
 
     .simply-countdown > .simply-section {
-        padding: 60px;
+        padding: 40px;
         margin: 5px;
     }
 }
@@ -86,7 +86,7 @@ body {
 /* mobile phone */
 @media (max-width: 576px) {
     html {
-        font-size: 60%;
+        font-size: 70%;
     }
     .simply-countdown > .simply-section {
         padding: 30px;
