@@ -119,8 +119,12 @@ body {
     color: white;
 }
 
+.home .couple p {
+    font-size: 1.2rem;
+}
+
 .home .couple img {
-    width: 100%;
+    width: 80%;
 }
 
 
