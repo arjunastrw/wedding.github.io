@@ -83,12 +83,12 @@ body {
 
 .home {
     /* background-image: url("../assets/img/bg1.png"); */
-    background-size: cover;
+    /* background-size: cover; */
     min-height: 100vh;
     background-color: grey;
-    margin-top: -7rem;
+    margin-top: -8rem;
     padding-top: 15rem;
-    padding-bottom: 5rem;
+    padding-bottom: 10rem;
 }
 
 .home h2 {
